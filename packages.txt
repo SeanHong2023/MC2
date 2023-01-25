@@ -1,2 +1,2 @@
 libgl1
-libusb
+ibusb-1.0-0-dev
