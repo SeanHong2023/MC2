@@ -92,7 +92,7 @@ numexpr==2.8.1
 numpy==1.23.0
 oauthlib==3.2.2
 opencv-python==4.7.0.68
-opencv-python-headless==4.7.0.68
+opencv-python-headless==4.4.0.40
 openpyxl==3.0.3
 opt-einsum==3.3.0
 optax==0.1.4
