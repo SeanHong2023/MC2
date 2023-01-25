@@ -109,7 +109,7 @@ proglog==0.1.9
 promise==2.3
 prompt-toolkit==3.0.5
 proto-plus==1.22.2
-protobuf<3.20,>=3.9.2
+protobuf==3.19.5
 psutil==5.6.7
 PsychoPy==2020.1.0
 ptyprocess==0.6.0
@@ -164,7 +164,7 @@ six==1.14.0
 smmap2==2.0.5
 sounddevice==0.4.5
 SoundFile==0.10.3.post1
-streamlit==2.0.0
+streamlit==1.17.0
 streamlit-embedcode==0.1.2
 streamlit-webrtc==0.44.2
 tables==3.6.1
