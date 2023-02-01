@@ -1,10 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components  # Import Streamlit
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import storage
 from firebase import firebase
-from firebase_admin import initialize_app
 
 
 
